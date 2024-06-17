@@ -1,0 +1,32 @@
+﻿Resource: 6 Responsibilities of a Data Engineer · Start Data Engineering
+https://www.startdataengineering.com/post/n-job-reponsibilities-of-a-data-engineer/
+
+
+Q: Imagine that you are hired to enable data analytics; where would you start? 
+How would you go about gathering requirements? 
+Hint: Think backward from what the business may need.
+
+
+If I were to be hired to enable data analytics in an organization, 
+I would start by addressing the big-picture challenges and then narrow them down once everyone is on the same page.
+First, I would open communication with end-users, clients, and higher-ups to understand what issues they are facing,
+what their objectives are, and whether they already have some idea of how a data-oriented environment might help them.
+It's crucial to understand what kind of data they need, the current issues with data accessibility or quality, and their overall goals with data analytics. 
+Depending on their goals - such as increasing sales, improving employee productivity, decreasing costs,
+or enhancing in-house processes — we can figure out the most important metrics and create tailored decisions.
+Reviewing existing documentation and processes would also help identify gaps and inefficiencies.
+
+After gathering all the requirements, the next step would be to design a strong data architecture that supports the organization's needs. 
+This involves setting up or improving ETL processes to ensure data is properly extracted, transformed, and loaded into a data warehouse.
+Choosing the right tools and technologies that fit the organization's budget and needs is also essential.
+
+Ensuring data quality and governance is another key aspect. 
+I would assess the current state of data quality and implement processes to maintain high standards of accuracy and completeness. 
+
+
+Making data accessible to end-users is critical for effective data analytics.
+I would implement data visualization tools like Tableau or Power BI, because when you don't visualize data effectively, you miss out on 99% of its value.
+
+I would make sure we monitor the data pipelines and the performance of our solutions. 
+This means we would need to regularly check on the ETL processes to make sure everything runs smoothly and deal with any issues right away. 
+Ensuring that scaling up is possible and the quality is improving would be our main goals for future success.
